@@ -1,4 +1,5 @@
 import ToDo from "./Components/Todo";
+
 function App() {
   return (
      <div>
@@ -6,7 +7,7 @@ function App() {
        <ToDo text="Learn React"/>
        <ToDo text="Master React"/>
        <ToDo text="Explore Full React"/>
-     </div>
+       </div>
   );
  }
 
